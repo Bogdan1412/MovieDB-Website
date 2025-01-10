@@ -39,5 +39,5 @@ Let me know if you need help customizing it further! 😊
 Contact
 • Author: Bogdan Savchuk
 • GitHub: https://github.com/Bogdan1412
-
+https://bogdan1412.github.io/MovieDB-Website/
 
